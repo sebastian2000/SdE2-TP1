@@ -1,2 +1,2 @@
 # SdE2-TP1
-# Ceva adaugat aici
+# Hello SdE2
